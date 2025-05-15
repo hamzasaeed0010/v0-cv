@@ -76,7 +76,7 @@ export default function Home() {
             <h2 className="text-3xl font-bold mb-8 text-center">About Me</h2>
             <div className="max-w-3xl mx-auto">
               <p className="text-lg mb-6">
-                Highly skilled IT Support Engineer with extensive experience in providing technical support, system
+                Highly skilled IT Support Software Engineer with extensive experience in providing technical support, system
                 administration, and cloud services. Proven track record of resolving complex technical issues and
                 optimizing IT infrastructure for diverse clients, including businesses in the Managed Service Provider
                 (MSP) environment.
@@ -191,7 +191,7 @@ export default function Home() {
                 <CardContent>
                   <ul className="list-disc pl-5 space-y-2">
                     <li>
-                      Provided 1st and 2nd line technical support to global clients, troubleshooting issues related to
+                      Provided 1st and 2nd line technical and 3rd support to global clients, troubleshooting issues related to
                       Windows desktop and server environments.
                     </li>
                     <li>
